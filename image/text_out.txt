@@ -1,2 +1,0 @@
-android2.0
-android2.1 
